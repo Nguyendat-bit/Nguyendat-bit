@@ -13,5 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyendat-bit&show_icons=true&locale=en" alt="nguyendat-bit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendat-bit&" alt="nguyendat-bit" /></p>
+
 
