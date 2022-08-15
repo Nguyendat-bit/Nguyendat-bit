@@ -3,6 +3,7 @@ I am a university student and I am interested in AI in general and natural langu
 ### I'm currently working on 
 - My English NLP toolkit 
 - My Vietnamese NLP toolkit
+- Graph Neural Networks
 ### Technical stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
